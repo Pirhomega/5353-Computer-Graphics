@@ -1,0 +1,32 @@
+﻿  Object.cpp
+c:\commonopengl\angelfiles\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\commonopengl\angelfiles\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Sodie_Coke.cpp
+c:\commonopengl\angelfiles\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\commonopengl\angelfiles\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\owner\desktop\opengl_laptopversion2\opengl_laptopversion\sodie_coke.cpp(114): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\owner\desktop\opengl_laptopversion2\opengl_laptopversion\sodie_coke.cpp(129): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\owner\desktop\opengl_laptopversion2\opengl_laptopversion\sodie_coke.cpp(140): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\owner\desktop\opengl_laptopversion2\opengl_laptopversion\sodie_coke.cpp(160): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\owner\desktop\opengl_laptopversion2\opengl_laptopversion\sodie_coke.cpp(171): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\owner\desktop\opengl_laptopversion2\opengl_laptopversion\sodie_coke.cpp(182): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\owner\desktop\opengl_laptopversion2\opengl_laptopversion\sodie_coke.cpp(194): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\owner\desktop\opengl_laptopversion2\opengl_laptopversion\sodie_coke.cpp(205): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\owner\desktop\opengl_laptopversion2\opengl_laptopversion\sodie_coke.cpp(216): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+SOIL.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+MSVCRT.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrtd.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+msvcrtd.lib(init.obj) : error LNK2001: unresolved external symbol __CrtDbgReport
+msvcrtd.lib(init.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+C:\Users\Owner\Desktop\OpenGL_LaptopVersion2\Release\OpenGL_LaptopVersion.exe : fatal error LNK1120: 2 unresolved externals

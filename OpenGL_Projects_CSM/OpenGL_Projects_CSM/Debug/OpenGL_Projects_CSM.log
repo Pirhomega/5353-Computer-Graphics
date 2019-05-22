@@ -1,0 +1,18 @@
+﻿  mazeGen.cpp
+c:\commonopengl\angelfiles\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\commonopengl\angelfiles\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\owner\source\repos\opengl_projects_csm\opengl_projects_csm\mazegen.cpp(49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\owner\source\repos\opengl_projects_csm\opengl_projects_csm\mazegen.cpp(52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\owner\source\repos\opengl_projects_csm\opengl_projects_csm\mazegen.cpp(58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\owner\source\repos\opengl_projects_csm\opengl_projects_csm\mazegen.cpp(61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\owner\source\repos\opengl_projects_csm\opengl_projects_csm\mazegen.cpp(76): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\owner\source\repos\opengl_projects_csm\opengl_projects_csm\mazegen.cpp(79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\owner\source\repos\opengl_projects_csm\opengl_projects_csm\mazegen.cpp(81): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\owner\source\repos\opengl_projects_csm\opengl_projects_csm\mazegen.cpp(84): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGL_Projects_CSM.vcxproj -> C:\Users\Owner\source\repos\OpenGL_Projects_CSM\Debug\OpenGL_Projects_CSM.exe

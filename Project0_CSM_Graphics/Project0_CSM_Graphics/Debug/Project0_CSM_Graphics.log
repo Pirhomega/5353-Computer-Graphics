@@ -1,0 +1,11 @@
+﻿  example2.cpp
+c:\commonopengl\angelfiles\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\commonopengl\angelfiles\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Project0_CSM_Graphics.vcxproj -> c:\users\bo119labstudent\documents\visual studio 2017\Projects\Project0_CSM_Graphics\Debug\Project0_CSM_Graphics.exe
+  Project0_CSM_Graphics.vcxproj -> c:\users\bo119labstudent\documents\visual studio 2017\Projects\Project0_CSM_Graphics\Debug\Project0_CSM_Graphics.pdb (Partial PDB)

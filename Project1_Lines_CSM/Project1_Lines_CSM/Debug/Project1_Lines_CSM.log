@@ -1,0 +1,11 @@
+﻿  example2.cpp
+c:\commonopengl\angelfiles\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\commonopengl\angelfiles\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\commonopengl\angelfiles\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\owner\source\repos\project1_lines_csm\project1_lines_csm\example2.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project1_Lines_CSM.vcxproj -> C:\Users\Owner\source\repos\Project1_Lines_CSM\Debug\Project1_Lines_CSM.exe
